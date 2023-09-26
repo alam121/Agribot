@@ -4,3 +4,4 @@ Our research is segmented into three focal areas: 1) The construction of the Agr
 <div style="text-align: center;">
 <img src="https://github.com/alam121/Agribot/blob/main/Front.jpeg" alt="Your Image Description" width="700" height="800">
 </div>
+
